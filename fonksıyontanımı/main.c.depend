@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1364558240 source:/home/gizem/Masaüstü/myCCodes/main.c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

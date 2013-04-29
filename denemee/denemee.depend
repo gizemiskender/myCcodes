@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1362646023 source:c:\users\dell\myccodes\denemee\main.c
+	<stdio.h>
+
+1362646023 
+
+1364556658 source:/home/gizem/Masaüstü/myCCodes/denemee/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1366311829 source:/home/gizem/Masaüstü/myCCodes/fibonakki/main.c
+	<stdio.h>
+	<stdlib.h>
+
