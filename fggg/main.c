@@ -1,18 +1,4 @@
-/*
-* =====================================================================================
-*
-* Filename: struc.c
-*
-* Description:
-*
-* Version: 1.0
-* Created: 25-04-2013 17:41:08
-* Compiler: gcc
-*
-* Author: Halit Alptekin, info@halitalptekin.com
-*
-* =====================================================================================
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
